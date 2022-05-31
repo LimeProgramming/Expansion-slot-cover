@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "slot_cover")(type "KiCad")(uri "${KIPRJMOD}/slotcover.pretty")(options "")(descr ""))
+)
